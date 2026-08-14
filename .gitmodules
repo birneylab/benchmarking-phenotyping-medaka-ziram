@@ -1,0 +1,3 @@
+[submodule "medaka-ziram-vae"]
+	path = medaka-ziram-vae
+	url = https://github.com/esther-yoo/medaka-ziram-vae.git
