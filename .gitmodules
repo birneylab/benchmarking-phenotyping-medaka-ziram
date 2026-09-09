@@ -5,3 +5,9 @@
 	path = ShapeEmbedFork
 	url = https://github.com/Fannoux/ShapeEmbedECCV.git
 	branch = ziram-eccv
+[submodule "CNN_medaka"]
+	path = CNN_medaka
+	url = https://github.com/Fannoux/CNN_medaka.git
+[submodule "Standard_evaluation"]
+	path = Standard_evaluation
+	url = https://github.com/Fannoux/Standard_evaluation.git
